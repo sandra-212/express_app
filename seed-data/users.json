@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "6612f1eaf1a2c1a2b1a1a101",
+      "name": "Alice Morgan",
+      "email": "alice.morgan@example.com",
+      "password": "test123",
+      "role": "user"
+    },
+    {
+      "_id": "6612f1eaf1a2c1a2b1a1a102",
+      "name": "Ben Carter",
+      "email": "ben.carter@example.com",
+      "password": "dev456",
+      "role": "user"
+    },
+    {
+      "_id": "6612f1eaf1a2c1a2b1a1a103",
+      "name": "Clara James",
+      "email": "clara.james@example.com",
+      "password": "guest789",
+      "role": "user"
+    },
+    {
+      "_id": "6612f1eaf1a2c1a2b1a1a104",
+      "name": "Daniel Kim",
+      "email": "daniel.kim@example.com",
+      "password": "pass000",
+      "role": "user"
+    },
+    {
+      "_id": "6612f1eaf1a2c1a2b1a1a105",
+      "name": "Eva Thompson",
+      "email": "eva.thompson@example.com",
+      "password": "node321",
+      "role": "user"
+    },
+    {
+      "_id": "6612f1eaf1a2c1a2b1a1a106",
+      "name": "Felix Ramirez",
+      "email": "felix.ramirez@example.com",
+      "password": "code007",
+      "role": "user"
+    },
+    {
+      "_id": "6612f1eaf1a2c1a2b1a1a107",
+      "name": "Grace Scott",
+      "email": "grace.scott@example.com",
+      "password": "api2025",
+      "role": "user"
+    },
+    {
+      "_id": "6612f1eaf1a2c1a2b1a1a108",
+      "name": "Henry Black",
+      "email": "henry.black@example.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ]
